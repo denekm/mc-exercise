@@ -18,5 +18,9 @@ somthing!!!!!
 Third time is a charm
 Carol was here!!!!
 Ted talk was founded in 1984
+<<<<<<< HEAD
+Bob is killing y'all....
+=======
 
 A lot of blame gets placed on But everyone's oh so willing to forgive old forgetful Ted, despite the same mistake being made. Think about it people -Carol
+>>>>>>> f93ae86fe9bfa040779db1b7be12b22b8ca174ef
