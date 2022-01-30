@@ -17,5 +17,17 @@ We all agree that Bob needs to go right?
 somthing!!!!!
 Third time is a charm
 Carol was here!!!!
+
 Ted talk was founded in 1984
+<<<<<<< HEAD
 some stuff!!!
+=======
+
+Ted talk was founded in 1984
+
+Bob is killing y'all....
+
+
+A lot of blame gets placed on But everyone's oh so willing to forgive old forgetful Ted, despite the same mistake being made. Think about it people -Carol
+
+>>>>>>> 4c0ac6aacecb8281799640f16d9eee45b03c014c
