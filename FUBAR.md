@@ -19,6 +19,7 @@ Third time is a charm
 Carol was here!!!!
 
 Ted talk was founded in 1984
+some stuff!!!
 
 Ted talk was founded in 1984
 
