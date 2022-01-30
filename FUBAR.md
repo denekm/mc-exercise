@@ -11,3 +11,9 @@ Little Joe was blowin' on the slide trombone
 The drummer boy from Illinois went crash, boom, bang
 The whole rhythm section was the Purple Gang
 -Bob (big fan of elvis)
+
+Okay fine, you guys get your side comments too - Also Bob
+We all agree that Bob needs to go right?
+somthing!!!!!
+Third time is a charm
+Carol was here!!!!
