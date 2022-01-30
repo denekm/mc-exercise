@@ -18,3 +18,5 @@ somthing!!!!!
 Third time is a charm
 Carol was here!!!!
 Ted talk was founded in 1984
+
+A lot of blame gets placed on But everyone's oh so willing to forgive old forgetful Ted, despite the same mistake being made. Think about it people -Carol
